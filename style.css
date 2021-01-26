@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+
+body{
+    background-color: black;
+}
+
+header{
+    font-family: Chakra Petch;
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-emphasis: center;
+}
+
+.navbar{
+   text-align: center; 
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover:{
+    color:rgb(167, 0, 92);
+}
